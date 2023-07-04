@@ -1,2 +1,3 @@
 ﻿  Source.cpp
-  test.vcxproj -> C:\Users\kenex\Desktop\lab02\alice\project\test\x64\Debug\test.exe
+  LINK : не найден или не выполнена сборка C:\Users\kenex\Desktop\lab02\bob\project\test\x64\Debug\test.exe при последней инкрементной компоновке; выполняется полная компоновка
+  test.vcxproj -> C:\Users\kenex\Desktop\lab02\bob\project\test\x64\Debug\test.exe
